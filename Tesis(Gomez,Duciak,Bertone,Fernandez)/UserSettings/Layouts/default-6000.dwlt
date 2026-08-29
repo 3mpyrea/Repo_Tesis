@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 110
+  controlID: 113
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -218,14 +218,14 @@ MonoBehaviour:
     y: 0
     width: 1602
     height: 964
-  m_MinSize: {x: 52, y: 76}
+  m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
-  m_ActualView: {fileID: 12}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
   - {fileID: 12}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -945,9 +945,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.5329611, y: -21.248169, z: 1.397429}
+    m_Target: {x: 7.4576645, y: -16.445908, z: 10.269718}
     speed: 2
-    m_Value: {x: -0.5329611, y: -21.248169, z: 1.397429}
+    m_Value: {x: 7.4576645, y: -16.445908, z: 10.269718}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -993,13 +993,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.5390367, y: 0.1096233, z: -0.07108434, w: -0.8321474}
+    m_Target: {x: -0.45613563, y: -0.046251316, z: 0.02367437, w: -0.8884508}
     speed: 2
-    m_Value: {x: -0.5390097, y: 0.10961781, z: -0.07108078, w: -0.83210576}
+    m_Value: {x: -0.45607585, y: -0.047581464, z: 0.02435728, w: -0.88833416}
   m_Size:
-    m_Target: 22.301435
+    m_Target: 24.0106
     speed: 2
-    m_Value: 22.301435
+    m_Value: 22.97665
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1074,7 +1074,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 40e8fdff0400feff5023ffffde27ffffdc28ffff1641fffff05bffff34f00000
+      m_ExpandedIDs: ee45ffff224affff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1146,7 +1146,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1156,16 +1156,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\bianc\OneDrive\Documentos\Tesis\Repo_Tesis\Tesis(Gomez,Duciak,Bertone,Fernandez)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 22}
-    m_SelectedIDs: 8ef40000
-    m_LastClickedID: 62606
-    m_ExpandedIDs: 000000007ee400004cf0000000ca9a3bffffff7f
+    m_SelectedIDs: a0ee0000
+    m_LastClickedID: 61088
+    m_ExpandedIDs: 000000009aee000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
